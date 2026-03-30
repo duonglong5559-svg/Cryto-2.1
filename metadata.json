@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Crypto Sniper 2.1",
+  "description": "Real-time crypto candlestick analysis app for finding entry points using price action, trendlines, and pivot points.",
+  "requestFramePermissions": []
+}
